@@ -1,0 +1,14 @@
+# Python artifacts (removed — skill is now pure shell)
+__pycache__/
+*.pyc
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Config (sensitive)
+config.json
+
+# Temp files
+/tmp/x402_*
